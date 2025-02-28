@@ -25,6 +25,3 @@ Tech Stack
 -> Frontend: Streamlit
 -> Backend: Python (Object-Oriented Programming)
 -> Database: MySQL
--> Libraries Used:
--> streamlit – for UI
--> mysql-connector-python – for database interactions

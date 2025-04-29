@@ -38,6 +38,7 @@ Ensure you have Python installed on your system. You can download it from [pytho
 
     1.Install MySQL Connector:
         - pip install mysql-connector-python
+        
     2.Install Streamlit:
       - pip install streamlit
 
@@ -51,10 +52,13 @@ Ensure you have Python installed on your system. You can download it from [pytho
 
     1.Run the Database File Once to Create Required Tables:
         - python database.py
+        
     2.Run the application:
         - python main.py
+        
     3.Run the streamlit:
         - streamlit run frontend.py
+        
     4.Follow the on-screen instructions to navigate through the menu and use the various features of the bank management system.
 
 # Detailed Features

@@ -8,7 +8,7 @@ Welcome to the Bank Management System, a Python-based command-line application d
 - Sign In / Sign Up
 
     - Check if User is Registered
-    - No User Registration
+    - New User Registration
 - Account Management
 
     - Same Account
@@ -98,6 +98,10 @@ Ensure you have Python installed on your system. You can download it from [pytho
 **Date/Time Functions**
 
 - Utilizes date and time functions to keep track of transactions and account activities.
+
+# Screenshots
+
+![App Screenshot](![Image](https://github.com/user-attachments/assets/8d1fe66e-7974-4a4f-9a66-15b9dd8dba7e))
 
 # Contributing
 We welcome contributions to enhance the features and improve the system. Feel free to fork the repository and create a pull request with your changes.

@@ -8,7 +8,7 @@ Welcome to the Bank Management System, a Python-based command-line application d
 - Sign In / Sign Up
 
     - Check if User is Registered
-    - New User Registration
+    - No User Registration
 - Account Management
 
     - Same Account
@@ -34,32 +34,39 @@ Welcome to the Bank Management System, a Python-based command-line application d
 
 Ensure you have Python installed on your system. You can download it from [python.org](https://www.python.org/).
 
-**Installation**
 
-    1.Install MySQL Connector:
-        - pip install mysql-connector-python
-        
-    2.Install Streamlit:
-      - pip install streamlit
+## Installation
 
-    3.Clone the repository:
-        - https://github.com/Shashwatkoshta/Bank-Management-System
+1.Install MySQL Connector:
 
-    4.Navigate to the project directory:
-        - cd Python-Bank-Project
+```bash
+  pip install mysql-connector-python
+```
+2.Clone the repository:
+
+```bash
+  https://github.com/Shashwatkoshta/Bank-Management-System
+```
+ 3.Navigate to the project directory:
+ ```bash
+  cd Python-Bank-Project
+```
 
 **Usage**
 
-    1.Run the Database File Once to Create Required Tables:
-        - python database.py
-        
-    2.Run the application:
-        - python main.py
-        
-    3.Run the streamlit:
-        - streamlit run frontend.py
-        
-    4.Follow the on-screen instructions to navigate through the menu and use the various features of the bank management system.
+1.Run the Database File Once to Create Required Tables:
+ ```bash
+  python database.py
+```  
+2.Run the application:
+```bash
+  python main.py
+```
+3.Run the streamlit:
+```bash
+  streamlit run frontend.py
+```
+4.Follow the on-screen instructions to navigate through the menu and use the various features of the bank management system.
 
 # Detailed Features
 

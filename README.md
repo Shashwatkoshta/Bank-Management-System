@@ -29,6 +29,12 @@ Welcome to the Bank Management System, a Python-based command-line application d
     - OOPs Implementation
     - Separate Account Number
 
+# Tech Stack
+
+- Backend:- Python
+- Database:- MySQL
+- Frontend:- Streamlit
+
 # Getting Started
 **Prerequisites**
 

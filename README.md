@@ -8,7 +8,7 @@ Welcome to the Bank Management System, a Python-based command-line application d
 - Sign In / Sign Up
 
     - Check if User is Registered
-    - No User Registration
+    - New User Registration
 - Account Management
 
     - Same Account

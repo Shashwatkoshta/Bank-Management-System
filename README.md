@@ -101,7 +101,7 @@ Ensure you have Python installed on your system. You can download it from [pytho
 
 # Screenshots
 
-![App Screenshot](![Image](https://github.com/user-attachments/assets/8d1fe66e-7974-4a4f-9a66-15b9dd8dba7e))
+![App Screenshot](https://github.com/user-attachments/assets/4485a338-ec44-4185-a2f9-60ac6918877e)
 
 # Contributing
 We welcome contributions to enhance the features and improve the system. Feel free to fork the repository and create a pull request with your changes.
